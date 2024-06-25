@@ -5,3 +5,4 @@ Another string...
 
 
 this is a useless string
+this is a feature
