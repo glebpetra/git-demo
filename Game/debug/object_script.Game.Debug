@@ -1,0 +1,11 @@
+debug/another_window.o
+debug/customscene.o
+debug/data.o
+debug/main.o
+debug/mainwindow.o
+debug/save_res_window.o
+debug/moc_another_window.o
+debug/moc_customscene.o
+debug/moc_data.o
+debug/moc_mainwindow.o
+debug/moc_save_res_window.o

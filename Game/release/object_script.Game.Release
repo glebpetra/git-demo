@@ -1,0 +1,11 @@
+release/another_window.o
+release/customscene.o
+release/data.o
+release/main.o
+release/mainwindow.o
+release/save_res_window.o
+release/moc_another_window.o
+release/moc_customscene.o
+release/moc_data.o
+release/moc_mainwindow.o
+release/moc_save_res_window.o
