@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-919c9087f65a063c082f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Bio_3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Bio_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bio_3-Debug-691bdaf0ee64a68e43fe.json",
+					"name" : "Bio_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Bio_3_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bio_3_autogen-Debug-7ef5a3410dae422018c7.json",
+					"name" : "Bio_3_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Bio_3_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bio_3_autogen_timestamp_deps-Debug-38735cb331b4f9b51eab.json",
+					"name" : "Bio_3_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/chest/source/repos/build-Bio_3-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/chest/source/repos/Bio_3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
